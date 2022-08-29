@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sash719.github.io/rsschool-cv/cv
