@@ -19,13 +19,14 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * Vue.js (in process)
 
 ## Code Example
-
-```function sum(a, b) {
+```
+function sum(a, b) {
   return a + b;
 }
 
 let result = sum(1, 2);
-alert( result )```
+alert( result )
+```
 ## Experience
 
 ## Education
