@@ -25,8 +25,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 }
 
 let result = sum(1, 2);
-alert( result );
-```
+alert( result )```
 ## Experience
 
 ## Education
