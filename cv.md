@@ -3,6 +3,7 @@
 ## Contacts
 * **Location**: St.Petersburg, Russia
 * **Phone**: +7(911)244-59-10
+* **Telegram**: vorsklaa
 * **E-mail**: sash719@gmail.com
 * **GitHub**: [sash719](https://github.com/sash719)
 
@@ -16,6 +17,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * HTML, CSS
 * Javascript (basic)
 * Git
+* SQL
 * Vue.js (in process)
 
 ## Code Example
@@ -35,6 +37,9 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * Courses:
     * [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
     * [Vue.js](https://app.tocode.ru/courses/vue-3/)
+    * [JS](https://rs.school/js-stage0/)
+    * [SQL](https://stepik.org/course/63054/syllabus)
+
 
 ## English
 A2
